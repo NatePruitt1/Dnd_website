@@ -1,0 +1,22 @@
+{
+  "name": "dnd_app",
+  "version": "0.0.1",
+  "description": "An App to track initiative in dnd combat",
+  "main": "./src/js/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Nate Pruitt",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}

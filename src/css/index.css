@@ -1,0 +1,61 @@
+.NoMargin {
+  margin: 0px;
+}
+
+.TitleSection {
+  height: auto;
+  font-size: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0px;
+}
+
+.MainSection {
+  display: flex;
+  border-width: 2px;
+  border-style: solid;
+  border-top-width: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: auto;
+  margin: 0px;
+}
+
+.CharacterSection {
+  width: 33%;
+  border-right-width: 2px;
+  border-right-style: solid;
+
+}
+
+.InitiativeSection {
+  width: 67%;
+  margin: 0px;
+}
+
+.InitiativeSectionPadding {
+  height: 50px;
+}
+
+
+
+.NpcTitle {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.InitiativeTitle {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.InitiativeCharacter {
+  padding-left: 5px;
+  display: flex;
+  border-bottom-width: 2px;
+  border-right: 2px;
+  border-radius: 5px;
+  border-bottom-style: solid;
+}
